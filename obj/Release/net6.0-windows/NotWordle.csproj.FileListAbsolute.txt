@@ -1,0 +1,17 @@
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\bin\Release\net6.0-windows\NotWordle.exe
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\bin\Release\net6.0-windows\NotWordle.deps.json
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\bin\Release\net6.0-windows\NotWordle.runtimeconfig.json
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\bin\Release\net6.0-windows\NotWordle.dll
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\bin\Release\net6.0-windows\NotWordle.pdb
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.csproj.AssemblyReference.cache
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.Form1.resources
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.csproj.GenerateResource.cache
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.AssemblyInfoInputs.cache
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.AssemblyInfo.cs
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.csproj.CoreCompileInputs.cache
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.dll
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\refint\NotWordle.dll
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.pdb
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\NotWordle.genruntimeconfig.cache
+C:\Users\ryand\Documents\UCCS\YEAR 2\SEM 1\C#\NotWordle\obj\Release\net6.0-windows\ref\NotWordle.dll
